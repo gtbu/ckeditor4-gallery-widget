@@ -33,4 +33,5 @@ This could change in one of the future versions.
 
 ## Demo
 
-https://akilli.github.io/rte/ck4
+- [Classic Editor](https://akilli.github.io/ckeditor4-build-classic/demo)
+- [Inline Editor](https://akilli.github.io/ckeditor4-build-inline/demo)
