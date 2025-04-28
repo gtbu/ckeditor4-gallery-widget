@@ -1,4 +1,4 @@
-# Gallery Widget
+# Gallery Widget (Akilli)
 
 This widgets serves as a container for multiple instances of other media widgets in order to display them as a gallery, p.e. with the aid of flexbox or grid layout, or as a slider/carousel, p.e. with your own implementation or one of your choice, or as whatever else comes into your mind.
 
